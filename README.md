@@ -28,13 +28,13 @@ I'm a backend developer, currently looking for new projects and challenges.
 
 * Volley ball :volleyball: :handball_person:
 * Soccer :soccer:
-* Enjoy :pizza: :weight_lifting: :beer:
+* Family & Friends :pizza: :weight_lifting: :beer:
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Gmail.com]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:alarcon.juan@correounivalle.edu.co
+[gmail-url]: mailto:elbercastillomesa@gmail.com
 [Linkedin.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/elbercastillomesa
 [Google.com]: https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=4285F4&logo=Google&logoColor=FFFFFF&label=
