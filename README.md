@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a backend developer, currently looking for new projects and challenges.
+I'm a web backend developer, currently looking for new projects and challenges.
 
 [![Linkedin.com][Linkedin.com]][linkedin-url]
 [![Gmail.com][Gmail.com]][gmail-url]
